@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064434535786",
+    "project_id": "vendingmachinefeit-1fd30",
+    "storage_bucket": "vendingmachinefeit-1fd30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064434535786:android:723b68fe49be3bdb06e913",
+        "android_client_info": {
+          "package_name": "com.yourname.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpa5JSBXMwf4GDjARWE2l2iGb9Fj1sE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
